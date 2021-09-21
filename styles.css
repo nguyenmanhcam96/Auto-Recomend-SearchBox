@@ -1,0 +1,11 @@
+.custom-select {
+  width: 200px;
+}
+a {
+  color: black;
+  font-weight: bold;
+}
+a:hover{
+  text-decoration: none;
+  
+}
